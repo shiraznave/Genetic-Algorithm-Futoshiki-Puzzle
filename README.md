@@ -8,4 +8,5 @@ Regular GA, Darwin GA, Lamarck GA and will print the results.
 
 You can also run the program using the full code with the following commands:
 >> pip install -r requirements.txt
+
 >> python menu.py
