@@ -299,7 +299,7 @@ def create_new_generation(chosen_population, lamarck = False):
             counter += 1
             new_generation[key] = matrix
             new_scores[key] = fitness(matrix)
-    return new_generation, new_score
+    return new_generation, new_scores
 
 # ------- optimization ------------------------------------------------------------------------------#
 # oprimizes a matrix by finding the cells where the constrains aren't settled
