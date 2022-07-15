@@ -12,10 +12,7 @@ When the program is running, please follow its instructions.
 Once entering the filename/path for configurations, the program will run:
 Regular GA, Darwin GA, Lamarck GA and will print the results.
 
-<img width="177" alt="image" src="https://user-images.githubusercontent.com/26282045/179261587-8c674bff-6f80-4e21-99fd-9404af9dbe1e.png">
-
-
-![image](https://user-images.githubusercontent.com/26282045/179260391-f7a9b527-a03a-4d38-afee-9254085f4993.png)
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/26282045/179261925-398089d1-bebb-41d1-ad37-f3dc8c5e88a1.png">
 
 You can also run the program using the full code with the following commands:
 >> pip install -r requirements.txt
