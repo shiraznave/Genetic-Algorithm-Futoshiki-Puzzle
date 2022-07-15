@@ -12,6 +12,9 @@ When the program is running, please follow its instructions.
 Once entering the filename/path for configurations, the program will run:
 Regular GA, Darwin GA, Lamarck GA and will print the results.
 
+<img width="177" alt="image" src="https://user-images.githubusercontent.com/26282045/179261587-8c674bff-6f80-4e21-99fd-9404af9dbe1e.png">
+
+
 ![image](https://user-images.githubusercontent.com/26282045/179260391-f7a9b527-a03a-4d38-afee-9254085f4993.png)
 
 You can also run the program using the full code with the following commands:
